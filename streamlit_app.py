@@ -130,4 +130,5 @@ if df is not None:
     elif analysis_option == "Bairro (Neighborhood)":
         run_analysis_neighborhood(df)
     elif analysis_option == "Tipo de Garagem (Garage Type)":
+
         run_analysis_garage_type(df)
